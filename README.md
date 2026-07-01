@@ -10,9 +10,4 @@
     <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,express,php,laravel,mysql,postgres,sqlite,prisma,docker,tailwind,git,github,vscode&perline=9" />
   </a>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaguarcion&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Jaguarcion's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaguarcion&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-</p>
-
 ---
